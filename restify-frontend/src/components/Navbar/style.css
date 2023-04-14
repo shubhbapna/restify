@@ -1,0 +1,19 @@
+@import url("https://fonts.googleapis.com/css2?family=Open+Sans:wght@800&family=PT+Sans&family=Rowdies:wght@300&display=swap");
+
+.restify {
+  color: white;
+  font-family: "Rowdies", cursive;
+  font-size: larger;
+}
+.restify-nav-links {
+  color: white;
+  font-size: large;
+  font-family: "PT Sans", sans-serif;
+}
+.restify-icons {
+  font-size: 1.5em;
+}
+
+.notif-badge {
+  font-size: 14px;
+}

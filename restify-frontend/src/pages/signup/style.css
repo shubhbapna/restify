@@ -1,0 +1,29 @@
+@import url('https://fonts.googleapis.com/css2?family=Open+Sans:wght@800&family=PT+Sans&family=Rowdies:wght@300&display=swap');
+
+.conts {
+  margin-top: 5%;
+  margin-bottom: 5%;
+}
+
+.row-signup {
+  background: white;
+  border-radius: 30px;
+  height: 47.5vw;
+}
+
+.picture-signup {
+  border-top-left-radius: 30px;
+  border-bottom-left-radius: 30px;
+  margin-left: -3.7%;
+  height: 47.5vw;
+  width: 100%;
+}
+
+.h1-signup {
+  font-family: "Rowdies", cursive;
+}
+
+.btn-signup {
+  height: 50px;
+  width: 100%;
+}

@@ -1,0 +1,11 @@
+venv
+db.sqlite3
+db.sqlite3-og
+**/__pycache__
+accounts/avatars
+restaurant/restaurant-logo/
+restaurant/restaurant-pictures/
+blog/blog-logo/
+.env
+
+*/migrations/00*
